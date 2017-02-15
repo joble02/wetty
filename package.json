@@ -31,5 +31,5 @@
     "bin": {
         "wetty": "./bin/wetty.js"
     },
-    "scripts": { "start": "node app.js -p process.env.PORT --sshhost 98.237.81.59"}
+    "scripts": { "start": "node app.js -p process.env.PORT --sshhost 98.237.81.59 --sshuser JoeBell"}
 }
